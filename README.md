@@ -1,4 +1,4 @@
-## Hi there, I'm Tanmay 😁-
+## Hi there, I'm Tanmay 😁
 
 ## I'm a junior undergraduate student who is aspiring to become an AI researcher 🧠
 

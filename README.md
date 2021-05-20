@@ -8,4 +8,3 @@
 - 🥅 My current goal is to contribute more to Open Source projects
 
 ---
-<img align="left" alt="M-NEXT's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=M-NEXT&show_icons=true&hide_border=true&theme=radical" />

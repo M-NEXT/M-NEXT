@@ -1,6 +1,6 @@
 ## Hi there, I'm Tanmay 😁
 
-## I'm a undergraduate student who is intrigued in Reinforcement Learning and Deep Learning 🤖
+## I'm an undergraduate student who is intrigued by Reinforcement Learning and Deep Learning 🤖
 
 - 🎓 Currently pursuing graduation at [Visvesvaraya National Istitute of Technology](https://vnit.ac.in/)
 - 🥼 A member of [IvLabs](https://www.ivlabs.in/), the Robotics and AI community of our College

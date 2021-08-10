@@ -8,3 +8,4 @@
 - 🥅 My current goal is to contribute more to Open Source projects
 
 ---
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=m-next&show_icons=true&locale=en" alt="m-next" /></p>

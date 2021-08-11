@@ -8,3 +8,4 @@
 - 🥅 My current goal is to contribute more to Open Source projects
 
 ---
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=m-next&label=Profile%20views&color=0e75b6&style=flat" alt="M-NEXT" /> </p>
